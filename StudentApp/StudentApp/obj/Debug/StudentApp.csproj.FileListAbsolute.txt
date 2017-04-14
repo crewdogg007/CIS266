@@ -1,0 +1,12 @@
+c:\users\homeserver\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\HomeServer\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\HomeServer\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+C:\Users\HomeServer\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.Form1.resources
+C:\Users\HomeServer\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+C:\Users\HomeServer\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\HomeServer\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\HomeServer\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\HomeServer\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+D:\pmoore1\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+D:\pmoore1\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+D:\pmoore1\Documents\Visual Studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
